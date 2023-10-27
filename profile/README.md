@@ -1,9 +1,29 @@
 # English AI - AI와 함께 영어 학습 혁신하기
 ---
-### 🌐 공식홈페이지: [englishai.io](https://www.englishai.io/)  
-### 🛠️ 기술지원: support@englishai.io
 
+## 현재 진행중인 프로젝트
+
+### 🗂️ 프로젝트
+
+Correctable 은 AI기반 영어 첨삭 보조 서비스입니다.
+- 관리보드: 🖥️ [Correctable](https://github.com/orgs/English-AI/projects/1)
+
+### 🗳️ 리포지토리
+
+- 기획
+  - 📆 [Planning](https://github.com/English-AI/correctable-planning) : 기획, PM
+- 개발
+  - ⚙️ [Core](https://github.com/English-AI/correctable-backend) : 인공지능 코어 개발
+  - 🌐 [Backend](https://github.com/English-AI/correctable-backend) : 웹 백엔드 개발
+  - 📱 [Frontend](https://github.com/English-AI/correctable-frontend) : 웹 프론트엔드 개발
+- 연구
+  - 🔬 [Labs](https://github.com/English-AI/correctable-labs) : 연구, 조사 및 실험
+- 운영
+  - 📈 [Operation](https://github.com/English-AI/correctable-operation) : 모니터링, CS, 운영
+  
 ---
+
+
 
 ## 📆 로드맵
 - Correctable (AI 첨삭 보조 서비스)
