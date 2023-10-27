@@ -13,7 +13,7 @@ Correctable 은 AI기반 영어 첨삭 보조 서비스입니다.
 - 기획
   - 📆 [Planning](https://github.com/English-AI/correctable-planning) : 기획, PM
 - 개발
-  - ⚙️ [Core](https://github.com/English-AI/correctable-backend) : 인공지능 코어 개발
+  - ⚙️ [Core](https://github.com/English-AI/correctable-core) : 인공지능 코어 개발
   - 🌐 [Backend](https://github.com/English-AI/correctable-backend) : 웹 백엔드 개발
   - 📱 [Frontend](https://github.com/English-AI/correctable-frontend) : 웹 프론트엔드 개발
 - 연구
